@@ -26,9 +26,9 @@ To set up this project locally, follow these steps:
 
 ## 📸 Screenshots
 
-![Chatbot Screenshot](1.png)  
-![Chatbot Screenshot](2.png)  
 ![Chatbot Screenshot](3.png)  
+![Chatbot Screenshot](2.png)  
+![Chatbot Screenshot](1.png)  
 
 ## 📝 Features
 
